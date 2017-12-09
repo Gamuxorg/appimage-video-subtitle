@@ -318,7 +318,7 @@ Mac 或 Windows 版的下载链接
 
 80
 00:04:55,975 --> 00:05:00,000
-Linus Trovalds在DebConf 2014
+Linus Trovalds 在 DebConf 2014
 
 81
 00:05:00,000 --> 00:05:02,735
